@@ -1,0 +1,42 @@
+# Visual Studio temporary files and folders
+serial-monitor/.vs
+serial-monitor/x64
+serial-monitor/MFC_serial/x64
+serial-monitor/Debug
+serial-monitor/Release
+serial-monitor/MFC_serial/Debug
+serial-monitor/MFC_serial/Release
+*.aps
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
